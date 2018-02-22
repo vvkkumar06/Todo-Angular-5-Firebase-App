@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+i:hover{
+    cursor:pointer !important;
+}
+body{
+    background:#3F51B5;
+}
+
